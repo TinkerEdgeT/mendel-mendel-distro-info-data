@@ -1,0 +1,15 @@
+Source: mendel-distro-info-data
+Maintainer: AIY Projects <support-aiyprojects@google.com>
+Build-Depends: debhelper
+Section: devel
+Priority: optional
+
+Package: mendel-distro-info-data
+Section: devel
+Priority: optional
+Architecture: all
+Depends: distro-info-data
+Description: info about Mendel's releases (data files)
+ This file contains information about all releases of Mendel.
+ .
+ This package contains the Mendel specific data files.
