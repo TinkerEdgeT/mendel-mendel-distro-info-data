@@ -1,5 +1,5 @@
-mendel-distro-info-data (0.1) animal; urgency=medium
+mendel-distro-info-data (1-1) mendel-beaker; urgency=medium
 
   * Initial release.
 
- -- AIY Projects <support-aiyprojects@google.com>  Mon, 10 Dec 2018 11:26:09 -0800
+ -- AIY Projects <support-aiyprojects@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
