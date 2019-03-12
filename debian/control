@@ -1,5 +1,5 @@
 Source: mendel-distro-info-data
-Maintainer: AIY Projects <coral-support@google.com>
+Maintainer: Coral <coral-support@google.com>
 Build-Depends: debhelper
 Section: devel
 Priority: optional
