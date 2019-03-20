@@ -1,3 +1,10 @@
+mendel-distro-info-data (2-1) mendel-chef; urgency=medium
+
+  * Add Chef to the Mendel distro entries
+  * Set EOL date for Beaker
+
+ -- Coral <coral-support@google.com>  Tue, 19 Mar 2019 17:08:25 -0700
+
 mendel-distro-info-data (1-1) mendel-beaker; urgency=medium
 
   * Initial release.
